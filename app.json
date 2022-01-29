@@ -1,8 +1,8 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "Heroku",
+  "description": "部署在Heroku上",
   "keywords": [
-    "v2ray VMess VLESS"
+    "VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/ack20a/heroku",
+  "repository": "https://github.com/ack20a/heroku",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
