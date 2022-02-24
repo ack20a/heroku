@@ -1,3 +1,4 @@
+bash <(curl -fsSL git.io/warp.sh) d
 #!/bin/sh
 # V2Ray generate configuration
 # Download and install V2Ray
